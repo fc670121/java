@@ -9,7 +9,7 @@
 # <span id='link1'>Java</span>  
 * <a href='https://www.oracle.com/java/technologies/javase-downloads.html' target='_blank'>Oracle JDK</a> : 請先註冊Oracle
 * Windows環境設定  
-![Alt text](.\Picture\01_01.png "從檔案總管-->本機按右鍵-->內容")  
+![Alt text](./Picture/01_01.png "從檔案總管-->本機按右鍵-->內容")  
 
 |變數|值|
 |-|-|
@@ -22,4 +22,4 @@
 # <span id='link2'>Eclipse安裝</span>  
 * <a herf='https://www.eclipse.org/downloads/' target='_blank'>Eclipse</a>
 * Windows環境設定  
-![Alt text](.\Picture\01_02.png "加入java path")  
+![Alt text](./Picture/01_02.png "加入java path")  

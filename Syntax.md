@@ -11,6 +11,7 @@
 
 ## 產出Class檔
 * javac HelloWorld.java
+* javac -encoding utf-8 HelloWorld.java
 
 ## run Class File
 * java -classpath . HelloWorld
